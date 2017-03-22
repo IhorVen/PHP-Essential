@@ -5,13 +5,13 @@
 </head>
 <body>
 <?php
-$var1=10;
+$var1 = 10;
 echo $var1;
 echo "<br />";
-$var1=100;
+$var1 = 100;
 echo $var1;
 echo "<br />";
-$var2="Hello world";
+$var2 = "Hello world";
 echo $var2;
 ?>
 </body>
